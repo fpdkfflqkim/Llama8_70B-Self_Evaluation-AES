@@ -1,7 +1,7 @@
 # Self-Evaluation of Question Difficulty Using Language Models
 Academic Conference
 
-	한국지능정보시스템학회 2024년 추계 학술대회(2024.11.01)
+  한국지능정보시스템학회 2024년 추계 학술대회(2024.11.01)
 
 ## Purpose
 프롬프트 앤지니어링에 필요한 최적의 Few-shot을 자동 선정하여 LLM의 추론 성능 향상
