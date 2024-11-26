@@ -9,8 +9,8 @@ Academic Conference
 ## Methodology
 인간의 개입이 필요한 Active Prompt의 한계점을 보완하여, LLM이 스스로 난이도 평가를 통해 자동으로 프롬프트 앤지니어링에 필요한 Few-shot을 구성
 	
-	Model : Llama3(70B)
-	Dataset : GSM8K
+  - Model : Llama3(70B)
+  - Dataset : GSM8K
 
 ## Result
 1. 기존 인간의 개입을 통해 선정한 예시와 다르게 구성함을 확인
